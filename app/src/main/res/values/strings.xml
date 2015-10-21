@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Air ADB</string>
+    <string name="adb_stopped">ADB service has been stopped.</string>
+    <string name="adb_started">ADB service is listening at:</string>
+    <string name="adb_start_button">Start</string>
+    <string name="adb_stop_button">Stop</string>
 </resources>
